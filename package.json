@@ -1,9 +1,9 @@
 {
   "name": "uncool",
-  "version": "0.0.14",
+  "version": "0.0.1",
   "main": "src/index.js",
   "description": "Vue.js plugin that allows page elements to be easily mutable using Firebase.",
-  "repository": "jorymullet/uncool",
+  "repository": "https://github.com/etothepi16/uncool-vue-3",
   "license": "GPL-3.0",
   "keywords": [
     "uncool",
@@ -39,7 +39,7 @@
     }
   },
   "dependencies": {
-    "save": "^2.4.0",
-    "vue2-editor": "^2.10.2"
+    "save": "^2.9.0",
+    "vue3-editor": "^0.1.1"
   }
 }
